@@ -1,1 +1,1 @@
-# 2025.04-KAICTS_Input_Feature_Extraction_Techniques_Comparison-Otsu-Mask_and_Salient_Region
+# [2025.04-KAICTS] Comparison of Input Feature Extraction Techniques for the Virtual Fitting Model ACGPN: Otsu Mask vs. Salient Region Detection
